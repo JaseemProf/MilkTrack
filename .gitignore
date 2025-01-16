@@ -172,3 +172,7 @@ cython_debug/
 
 #FastHTML genered files
 .sesskey
+
+# databases
+*.db
+*.db-*
